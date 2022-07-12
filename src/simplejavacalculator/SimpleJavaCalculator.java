@@ -20,7 +20,7 @@ public class SimpleJavaCalculator {
 
    //Yuhao changed code place
 
-   //Test
+   //Test Work two
    public static void main(String[] args) {
       try {
          UI uiCal = new UI();
